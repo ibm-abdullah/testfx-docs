@@ -1,5 +1,12 @@
 # Releases
 
+# 2.2.4 (May 2021)
+A list of changes since last release are available [here](https://github.com/microsoft/testfx/compare/0b95a26282eae17f896d732381e5c77b9a603382...v2.2.4)
+
+### Builds
+* MSTest.TestFramework: [2.2.4](https://www.nuget.org/packages/MSTest.TestFramework/2.2.4)
+* MSTest.TestAdapter: [2.2.4](https://www.nuget.org/packages/MSTest.TestAdapter/2.2.4)
+
 # 2.2.4-preview-20210331-02 (March 2021)
 - [x] [Fix StackOverflowException in StringAssert.DoesNotMatch](https://github.com/microsoft/testfx/pull/806)
 - [x] [Added basic WinUI3 support.](https://github.com/microsoft/testfx/pull/782)
